@@ -52,7 +52,7 @@ The dataset is sourced from the Kaggle Walmart Sales Forecasting Competition and
 6. What product line had the largest revenue?
 7. What is the city with the largest revenue?
 8. What product line had the largest VAT?
-9. Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+9. Fetch each product line and add a column to those product line showing "Good", "Bad". Good   if its greater than average sales.
 10. Which branch sold more products than average product sold?
 11. What is the most common product line by gender?
 12. What is the average rating of each product line?
@@ -81,7 +81,7 @@ The dataset is sourced from the Kaggle Walmart Sales Forecasting Competition and
 - Peak Periods: Evenings and specific weekdays show the highest sales volume.
 - Customer Insights: A particular customer type contributes the highest revenue and tax (VAT).
 
-# Code
+# Dataset Schema
 For the rest of the code, check the SQL_queries.sql file
 -- Create database
 CREATE DATABASE IF NOT EXISTS walmartSales;
