@@ -166,7 +166,8 @@ GROUP BY day_name ORDER BY avg(rating) DESC LIMIT 1;
 
 -- 10.Which day of the week has the best average ratings per branch?
 SELECT day_name, branch, avg(rating) from sales
-GROUP BY day_name ,branch ORDER BY avg(rating) DESC LIMIT 1;
+GROUP BY day_name ,
+	branch ORDER BY avg(rating) DESC LIMIT 1;
 
 
 
