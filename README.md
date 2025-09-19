@@ -1,4 +1,5 @@
-# Walmart-Sales-Data-Analysis
+# Walmart Sales Data Analysis
+![Walmart Logo](https://1000logos.net/wp-content/uploads/2017/05/Walmart-Logo.png)
 # Overview
 This project explores Walmart sales data to uncover top-performing branches and product lines, study sales trends, and understand customer behaviour.
 Insights from this analysis can help improve and optimise Walmart’s sales strategies. 
