@@ -3,15 +3,15 @@
 This project explores Walmart sales data to uncover top-performing branches and product lines, study sales trends, and understand customer behaviour.
 Insights from this analysis can help improve and optimise Walmart’s sales strategies. 
 ## Objectives
--Identify best-selling product lines and those needing improvement.
--Analyse sales trends across time and branches.
--Understand customer segments, their purchasing patterns, and their profitability.
--Provide actionable recommendations to optimise marketing and operations.
+- Identify best-selling product lines and those needing improvement.
+- Analyse sales trends across time and branches.
+- Understand customer segments, their purchasing patterns, and their profitability.
+- Provide actionable recommendations to optimise marketing and operations.
 ## Dataset
 The dataset is sourced from the Kaggle Walmart Sales Forecasting Competition and contains 1,000 sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw.
 
 ## Key Facts
--17 columns describing sales transactions
+- 17 columns describing sales transactions
 -Historical data includes holiday markdown events that influence sales patterns.
 
 # Database Schema
@@ -41,10 +41,10 @@ The dataset is sourced from the Kaggle Walmart Sales Forecasting Competition and
 # Business Problems and SQL Solutions
 
 # Findings
--Top Product Lines: Certain categories consistently outperform others in total revenue.
--Branch Performance: One branch records significantly higher overall sales.
--Peak Periods: Evenings and specific weekdays show the highest sales volume.
--Customer Insights: A particular customer type contributes the highest revenue and tax (VAT).
+- Top Product Lines: Certain categories consistently outperform others in total revenue.
+- Branch Performance: One branch records significantly higher overall sales.
+- Peak Periods: Evenings and specific weekdays show the highest sales volume.
+- Customer Insights: A particular customer type contributes the highest revenue and tax (VAT).
 
 # Recommendations
 
