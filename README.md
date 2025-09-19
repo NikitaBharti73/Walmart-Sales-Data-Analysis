@@ -85,6 +85,7 @@ The dataset is sourced from the Kaggle Walmart Sales Forecasting Competition and
 # Dataset Schema
 For the rest of the code, check the Walmart_SQL_File.sql file
 
+```sql
 -- Create database
 CREATE DATABASE IF NOT EXISTS walmartSales;
 
