@@ -9,7 +9,7 @@ Insights from this analysis can help improve and optimise Walmart’s sales stra
 - Understand customer segments, their purchasing patterns, and their profitability.
 - Provide actionable recommendations to optimise marketing and operations.
 ## Dataset
-- ** Dataset Link: ** [Walmart Dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+-  Dataset Link: [Walmart Dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 The dataset is sourced from the Kaggle Walmart Sales Forecasting Competition and contains 1,000 sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw.
 
 ## Key Facts
